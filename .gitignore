@@ -1,0 +1,11 @@
+.idea/
+.iml
+
+cmake-buid-debug/
+
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.pdp
