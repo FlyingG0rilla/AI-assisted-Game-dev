@@ -1,3 +1,0 @@
-"C:\Users\Dennis Schwab\AppData\Local\JetBrains\CLion 2025.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\ProjektarbeitSpiel_V1.dir/objects.a
-C:\Users\DENNIS~1\AppData\Local\JETBRA~1\CLION2~1.1\bin\mingw\bin\ar.exe qc CMakeFiles\ProjektarbeitSpiel_V1.dir/objects.a @CMakeFiles\ProjektarbeitSpiel_V1.dir\objects1.rsp
-C:\Users\DENNIS~1\AppData\Local\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\ProjektarbeitSpiel_V1.dir/objects.a -Wl,--no-whole-archive -o ProjektarbeitSpiel_V1.exe -Wl,--out-implib,libProjektarbeitSpiel_V1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ProjektarbeitSpiel_V1.dir\linkLibs.rsp

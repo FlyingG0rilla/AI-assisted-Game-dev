@@ -1,1 +1,0 @@
-  -L"C:/DevLib/SDL2-2.32.2/x86_64-w64-mingw32/lib"  -L"C:/DevLib/SDL2_ttf-2.22.0/x86_64-w64-mingw32/lib"  -L"C:/DevLib/SDL2_image-2.8.6/x86_64-w64-mingw32/lib"  -lSDL2main -lSDL2 -lSDL2_ttf -lSDL2_image -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
