@@ -35,6 +35,8 @@ The functionality was intentionally kept minimal, serving primarily as structura
 
 ### Example of the prototype
 
+![Initial Prototype](assets/initialprototype_showcase.png)
+
 
 ### Functional Extensions
 The prototype was iteratively expanded and improved over time. Based on the initial framework, core features were first refined and stabilized, particularly the health and scoring systems. 
@@ -48,6 +50,8 @@ Parallel to these additions, the code structure was refactored to improve readab
 This iterative approach allowed the prototype to be continuously enhanced both functionally and structurally.
 
 ### Example of Prototype after rework
+
+![Reworked Prototype](assets/reworkedprototype_showcase.png)
 
 ## Benefits of AI-Assisted Development
 Working with ChatGPT proved to be a very helpful support tool. 
