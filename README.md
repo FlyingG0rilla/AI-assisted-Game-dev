@@ -5,6 +5,7 @@ University project to determen capabilities of AI assisted software development
 The goal of this project is to develop a game with the assistance of advanced language models and to evaluate their capabilities by documenting the development process and outcomes.
 
 The game is an arcade-style title inspired by classic games from the 1980s and is developed in C++ using SDL2 and OpenGL with the assistance of ChatGPT-5.
+
 The project is still work in progress and not finalized yet.
 
 
