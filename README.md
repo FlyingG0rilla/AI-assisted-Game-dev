@@ -58,7 +58,7 @@ This iterative approach allowed the prototype to be continuously enhanced both f
 Working with ChatGPT proved to be a very helpful support tool. 
 It was particularly useful during project setup in C-Lion and for debugging errors, providing multiple helpful suggestions for troubleshooting. 
 Overall, ChatGPT offers significant value in programming by accelerating problem-solving and providing guidance.
-In addition to that ChatGPt has generated a clean an functioning basic prototype in a fraction of the time it would have takn me, however there a some issues and limitations.
+In addition to that ChatGPT has generated a clean an functioning basic prototype in a fraction of the time it would have taken me, however there a some issues and limitations.
 
 
 ## Challanges and Limittions
